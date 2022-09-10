@@ -8,4 +8,4 @@ This project is a hello world example showing how pix3d can be mixed in a react-
 
 and the pixi3d api example in this link
 
-[pixi3d api docs] (https://github.com/jnsmalm/pixi3d#getting-started)
+[pixi3d api docs](https://github.com/jnsmalm/pixi3d#getting-started)
