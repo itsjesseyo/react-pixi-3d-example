@@ -4,7 +4,7 @@ This project is a hello world example showing how pix3d can be mixed in a react-
 
  I simply mixed and matched the custom component example in this link
 
-[ react-pixi custom components ] (https://reactpixi.org/custom-components)
+(react-pixi custom components)[https://reactpixi.org/custom-components]
 
 and the pixi3d api example in this link
 
